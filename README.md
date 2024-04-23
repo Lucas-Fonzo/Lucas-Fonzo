@@ -22,13 +22,16 @@ Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](htt
 <br/>
 
 
-### Minhas Skills:
+### Minhas Skills
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,aws,nodejs,js,npm,vscode,![image](https://github.com/Lucas-Fonzo/Lucas-Fonzo/assets/157448238/1c3b7ccb-8eac-4729-90e2-54ad2ae2b2d7)
 )](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fonzo&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
 
+### Certificações
+[<img align="left" height="124px" width="124px" alt="Warpnet" src="https://www.brasilopenbadge.com.br/badge/5219.png?nocache=472855742"/>](http://badges.com.br/share/08727cbcfa318f85200c4c158eec7069.php?a=5219&embed=true)
+[<img align="left" height="124px" width="124px" alt="Warpnet" src="https://brasilopenbadge.com.br/badge/6413.png?tam=200"/>](http://badges.com.br/share/bf0db623d103f27b7c5dd86d04a08531.php?a=6413)
 <!--
 **Lucas-Fonzo/Lucas-Fonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Instagram](https://img.shields.io/badge/jess.coder-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
