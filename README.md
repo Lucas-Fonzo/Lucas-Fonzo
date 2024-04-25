@@ -18,7 +18,7 @@ Atualmente, integro o time de analytics do Itaú Shop, onde proponho estudos de 
 **Analista de Dados** \
 [**Itaú Unibanco**](https://www.itau.com.br/) • 2019 - presente\
 Linguagens & Tecnologias: `Python`, `SQL`, `AWS`,\
-Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](https://www.remessaonline.com.br/blog/iupp-itau/)
+Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](https://www.remessaonline.com.br/blog/iupp-itau/),[PSP](https://www.idinheiro.com.br/cartao-de-credito/sempre-presente/)
 <br/>
 
 
