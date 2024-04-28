@@ -11,7 +11,7 @@ Atualmente, integro o time de analytics do Itaú Shop, onde proponho estudos de 
 [![Youtube](https://img.shields.io/badge/lucasfonzo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxVV9X6rs48Y9SxoLrWvgUw)
 [![Linkedin](https://img.shields.io/badge/Lucas%20Fonzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fonzo/) 
 
-### Experiência de trabalho
+## Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ita%C3%BA_Unibanco_logo_2023.svg/500px-Ita%C3%BA_Unibanco_logo_2023.svg.png"/>](https://www.itau.com.br/)
 
@@ -22,19 +22,25 @@ Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](htt
 <br/>
 
 
-### Minhas Skills
+## Minhas Skills
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,aws,nodejs,js,npm,vscode,![image](https://github.com/Lucas-Fonzo/Lucas-Fonzo/assets/157448238/1c3b7ccb-8eac-4729-90e2-54ad2ae2b2d7)
 )](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fonzo&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
 
-### Certificações 
+## Certificações 
 [<img align="left" height="124px" width="124px" alt="Warpnet" src="https://www.brasilopenbadge.com.br/badge/5219.png?nocache=472855742"/>](http://badges.com.br/share/08727cbcfa318f85200c4c158eec7069.php?a=5219&embed=true)
 [<img align="left" height="124px" width="124px" alt="Warpnet" src="https://brasilopenbadge.com.br/badge/6413.png?tam=200"/>](http://badges.com.br/share/bf0db623d103f27b7c5dd86d04a08531.php?a=6413)
 
-<!--
-### Leetcode Stats 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Leetcode Stats 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lucas-fonzo?ext=heatmap)
 
 <!--
