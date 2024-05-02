@@ -44,6 +44,8 @@ Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](htt
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lucas-fonzo?ext=heatmap)
 
 <!--
+[![API Banco Digital](https://ytcards.demolab.com/?id=tFyjhiydrFc&title=API+Banco+Digital&lang=pt&timestamp=1714615202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736 "5 things I wish I knew before studying Computer Science")](https://www.youtube.com/watch?v=tFyjhiydrFc)
+
 **Lucas-Fonzo/Lucas-Fonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Instagram](https://img.shields.io/badge/jess.coder-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 Here are some ideas to get you started:
