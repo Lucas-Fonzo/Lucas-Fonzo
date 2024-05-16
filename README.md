@@ -28,24 +28,18 @@ Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](htt
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fonzo&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
+## Leetcode Stats 
+![Leetcode Stats](https://leetcard.jacoblin.cool/lucas-fonzo?ext=heatmap)
 
 ## Certificações 
- <div align="left">
+
 <a href="http://badges.com.br/share/08be7ff387dbb3cb37780d998cee591a.php?a=3707&embed=true"><img align="left" height="124px" width="124px" alt="Warpnet" src="https://brasilopenbadge.com.br/badge/3707.png?nocache=387944356"/></a>
 <a href="http://badges.com.br/share/08727cbcfa318f85200c4c158eec7069.php?a=5219&embed=true"><img align="left" height="124px" width="124px" alt="Warpnet" src="https://www.brasilopenbadge.com.br/badge/5219.png?nocache=472855742"/></a>
 <a href="http://badges.com.br/share/bf0db623d103f27b7c5dd86d04a08531.php?a=6413&embed=true"><img align="left" height="124px" width="124px" alt="Warpnet" src="https://brasilopenbadge.com.br/badge/6413.png?nocache=414404372"/></a>
 <a href="http://badges.com.br/share/5a08e24eabd1e6c40ca612c3ef2949a6.php?a=6414&embed=true"><img align="left" height="124px" width="124px" alt="Warpnet" src="https://brasilopenbadge.com.br/badge/6414.png?nocache=388271272"/></a>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <a href="http://badges.com.br/share/351dd20fd6da8a07f69fd82af4c7ac14.php?a=3712&embed=true"><img align="left" height="124px" width="124px" alt="Warpnet" src="https://brasilopenbadge.com.br/badge/3712.png?nocache=388279344"/></a>
 <a href="http://badges.com.br/share/c28a2fc824574d1e07ca6190e86d732e.php?a=3709&embed=true"><img align="left" height="124px" width="124px" alt="Warpnet" src="https://brasilopenbadge.com.br/badge/3709.png?nocache=389153138"/></a>
 <a href="http://badges.com.br/share/b730bb640b0ae20d97ab5ceac5112608.php?a=4048&embed=true"><img align="left" height="124px" width="124px" alt="Warpnet" src="https://brasilopenbadge.com.br/badge/4048.png?nocache=388285398"/></a>
-</div> 
-
 <br/>
 <br/>
 <br/>
@@ -53,8 +47,7 @@ Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](htt
 <br/>
 <br/>
 
-## Leetcode Stats 
-![Leetcode Stats](https://leetcard.jacoblin.cool/lucas-fonzo?ext=heatmap)
+
 
 <!--
 [![API Banco Digital](https://ytcards.demolab.com/?id=tFyjhiydrFc&title=API+Banco+Digital&lang=pt&timestamp=1714615202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736 "5 things I wish I knew before studying Computer Science")](https://www.youtube.com/watch?v=tFyjhiydrFc)
