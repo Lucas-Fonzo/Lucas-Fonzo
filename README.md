@@ -23,7 +23,7 @@ Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](htt
 
 
 ## Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,aws,nodejs,js,ts,npm,vscode,![image](https://github.com/Lucas-Fonzo/Lucas-Fonzo/assets/157448238/1c3b7ccb-8eac-4729-90e2-54ad2ae2b2d7)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,aws,nodejs,js,ts,npm,vscode,html,css,react,![image](https://github.com/Lucas-Fonzo/Lucas-Fonzo/assets/157448238/1c3b7ccb-8eac-4729-90e2-54ad2ae2b2d7)
 )](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fonzo&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
