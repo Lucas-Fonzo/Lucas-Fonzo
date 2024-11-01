@@ -4,8 +4,7 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=lucas-fonzo&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/lucas-fonzo?label=Follow&style=social)
 <p align="left" style="text-align: justify">
   
-Atualmente, integro o time de analytics do Itaú Shop, onde proponho estudos de conversão dos clientes para melhorar nossas comunicações. Desenvolvo também paineis para nossos times internos que permitem acompanhar KPIs e OKRs. Também tenho um canal no [Youtube](https://www.youtube.com/channel/UCxVV9X6rs48Y9SxoLrWvgUw) e um [blog](https://medium.com/@lucas-fonzo) onde compartilho meus conhecimentos, experiências e estudos com os outros.
-
+Atualmente, integro o time de analytics do Itaú Shop, onde proponho estudos de conversão dos clientes para melhorar nossas comunicações. Desenvolvo também paineis para nossos times internos que permitem acompanhar KPIs e OKRs. 
 </p>
 
 [![Youtube](https://img.shields.io/badge/lucasfonzo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxVV9X6rs48Y9SxoLrWvgUw)
