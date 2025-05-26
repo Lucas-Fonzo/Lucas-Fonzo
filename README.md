@@ -14,7 +14,7 @@ Atualmente, integro o time de analytics do Itaú Shop, onde proponho estudos de 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ita%C3%BA_Unibanco_logo_2023.svg/500px-Ita%C3%BA_Unibanco_logo_2023.svg.png"/>](https://www.itau.com.br/)
 
-**Analista de Dados** \
+**Analista de Ciência de Dados** \
 [**Itaú Unibanco**](https://www.itau.com.br/) • 2019 - presente\
 Linguagens & Tecnologias: `Python`, `SQL`, `AWS`\
 Projetos em destaque: [itau Shop](https://www.itau.com.br/itau-shop), [IUPP](https://www.remessaonline.com.br/blog/iupp-itau/), [PSP](https://www.idinheiro.com.br/cartao-de-credito/sempre-presente/)
